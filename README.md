@@ -1,25 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Denis Batrachenko
 
-<!--
-**lamborghiniMiuraGt350/lamborghiniMiuraGt350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Web Developer from Kharkiv, Ukraine 🇺🇦
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Email](https://img.shields.io/badge/Email-bden516%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bden516@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@den4kX21-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/den4kX21)
+🚀 I am a passionate web developer focused on building modern, responsive, and high-performance web applications.  
+I enjoy writing clean code, creating intuitive user experiences, and continuously improving my skills.
 
 ---
 
-## 🛠 Технологии
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🧑‍💻 About Me
+
+- 💻 Frontend Developer
+- ⚛️ Working with React
+- 📘 Using TypeScript
+- 🔧 Version control with Git
+- 📍 Kharkiv, Ukraine
+
+---
+
+## 🛠 Tech Stack & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Batrachenko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-batrachenko-a59872328)
+
+[![Telegram](https://img.shields.io/badge/Telegram-@den4kX21-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/den4kX21)
+
+[![Instagram](https://img.shields.io/badge/Instagram-denis__x21-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/denis__x21)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### ⚡ Goal
+To build modern web applications that solve real-world problems and deliver meaningful user experiences.
