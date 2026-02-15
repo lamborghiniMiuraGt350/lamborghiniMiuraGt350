@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Email](https://img.shields.io/badge/Email-bden516%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bden516@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@den4kX21-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/den4kX21)
+
+---
+
+## 🛠 Технологии
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
