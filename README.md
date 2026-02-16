@@ -1,62 +1,50 @@
-<div align="center">
+# 👋 Hi, I'm Denis Batrachenko
 
-# DENIS BATRACHENKO
+### 🌍 Web Developer from Kharkiv, Ukraine 🇺🇦
 
-Frontend Developer  
-React • TypeScript  
-
-Kharkiv, Ukraine 🇺🇦
-
-</div>
+🚀 I am a passionate web developer focused on building modern, responsive, and high-performance web applications.  
+I enjoy writing clean code, creating intuitive user experiences, and continuously improving my skills.
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
-Frontend developer focused on building scalable and high-performance web applications.  
-Clean architecture. Maintainable code. Thoughtful user experience.
-
----
-
-## Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+- 💻 Frontend Developer
+- ⚛️ Working with React
+- 📘 Using TypeScript
+- 🔧 Version control with Git
+- 📍 Kharkiv, Ukraine
 
 ---
 
-## Contact
+## 🛠 Tech Stack & Tools
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-bden516%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bden516@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Batrachenko-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-batrachenko-a59872328)
-[![Telegram](https://img.shields.io/badge/Telegram-@den4kX21-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/den4kX21)
-[![Instagram](https://img.shields.io/badge/Instagram-denis__x21-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/denis__x21)
-
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 
 ---
 
-## GitHub
+## 📫 Connect with Me
 
-<div align="center">
+[![Email](https://img.shields.io/badge/Email-bden516%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bden516@gmail.com)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Batrachenko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-batrachenko-a59872328)
 
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-@den4kX21-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/den4kX21)
+
+[![Instagram](https://img.shields.io/badge/Instagram-denis__x21-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/denis__x21)
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-Minimal. Precise. Intentional.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### ⚡ Goal
+To build modern web applications that solve real-world problems and deliver meaningful user experiences.
