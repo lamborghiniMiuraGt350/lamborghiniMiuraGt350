@@ -11,7 +11,7 @@ I enjoy writing clean code, creating intuitive user experiences, and continuousl
 
 - 💻 Frontend Developer
 - ⚛️ Working with React
-- 📘 Using TypeScript
+- <!-- - 📘 Using TypeScript -->
 - 🔧 Version control with Git
 - 📍 Kharkiv, Ukraine
 
