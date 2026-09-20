@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Denis Batrachenko
+# 👋 Hi, I'm Denys Batrachenko
 
 ### 🌍 Web Developer from Kharkiv, Ukraine 🇺🇦
 
